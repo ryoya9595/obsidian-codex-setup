@@ -40,7 +40,7 @@ body{
   background-image:radial-gradient(var(--line) 1px, transparent 1px);
   background-size:28px 28px;
 }
-h1,h2,h3,.step-num{font-family:'Zen Maru Gothic',sans-serif}
+h1,h2,h3,.step-num{font-family:'Zen Kaku Gothic New',sans-serif}
 code,pre,.mono{font-family:'DM Mono',monospace}
 
 /* ---- header ---- */
@@ -50,7 +50,7 @@ code,pre,.mono{font-family:'DM Mono',monospace}
   border-bottom:1px solid var(--line);
 }
 .topbar-in{max-width:920px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
-.logo{font-family:'Zen Maru Gothic',sans-serif;font-weight:900;font-size:1rem;letter-spacing:.02em;text-decoration:none;color:var(--ink)}
+.logo{font-family:'Zen Kaku Gothic New',sans-serif;font-weight:900;font-size:1rem;letter-spacing:.02em;text-decoration:none;color:var(--ink)}
 .logo .brain{color:var(--accent)}
 .topnav{display:flex;gap:4px;margin-left:auto;flex-wrap:wrap}
 .topnav a{
@@ -139,7 +139,7 @@ section{margin-top:64px}
 .tool-card p{font-size:.88rem;color:var(--ink-soft)}
 .tool-card .t-cta{
   display:inline-block;margin-top:18px;font-weight:700;font-size:.9rem;
-  font-family:'Zen Maru Gothic',sans-serif;
+  font-family:'Zen Kaku Gothic New',sans-serif;
 }
 .tool-card.cc .t-cta{color:#463aa8}
 .tool-card.cx .t-cta{color:#0a6b58}
@@ -159,7 +159,7 @@ section{margin-top:64px}
 }
 .os-toggle a{
   flex:1;text-align:center;padding:14px 10px;text-decoration:none;
-  font-family:'Zen Maru Gothic',sans-serif;font-weight:700;font-size:.95rem;
+  font-family:'Zen Kaku Gothic New',sans-serif;font-weight:700;font-size:.95rem;
   color:var(--ink-soft);transition:all .15s;
 }
 .os-toggle a.active{background:var(--ink);color:#fff}
@@ -176,7 +176,7 @@ section{margin-top:64px}
 .os-switch p strong{color:var(--ink)}
 .os-switch a{
   flex-shrink:0;
-  font-family:'Zen Maru Gothic',sans-serif;font-weight:700;font-size:.9rem;
+  font-family:'Zen Kaku Gothic New',sans-serif;font-weight:700;font-size:.9rem;
   background:var(--accent);color:#fff;text-decoration:none;
   padding:10px 22px;border-radius:999px;transition:all .15s;
 }
@@ -187,7 +187,7 @@ section{margin-top:64px}
 .t-os a{
   display:flex;align-items:center;justify-content:space-between;
   text-decoration:none;font-weight:700;font-size:.95rem;
-  font-family:'Zen Maru Gothic',sans-serif;
+  font-family:'Zen Kaku Gothic New',sans-serif;
   padding:16px 22px;border-radius:14px;transition:all .15s;
   color:#fff;box-shadow:0 3px 0 rgba(38,32,58,.18);
 }
@@ -228,7 +228,7 @@ section{margin-top:64px}
 .prompt-head .fname{font-size:.78rem;color:rgba(255,255,255,.55);font-family:'DM Mono',monospace}
 .copy-btn{
   margin-left:auto;
-  font-family:'Zen Maru Gothic',sans-serif;font-weight:700;font-size:.85rem;
+  font-family:'Zen Kaku Gothic New',sans-serif;font-weight:700;font-size:.85rem;
   background:var(--accent);color:#fff;border:none;border-radius:999px;
   padding:8px 20px;cursor:pointer;transition:all .15s;
 }
@@ -286,7 +286,7 @@ details .d-body code{background:var(--paper-2);padding:2px 8px;border-radius:6px
 }
 .pager a{
   text-decoration:none;font-weight:700;font-size:.9rem;
-  font-family:'Zen Maru Gothic',sans-serif;
+  font-family:'Zen Kaku Gothic New',sans-serif;
   padding:14px 24px;border-radius:999px;border:1.5px solid var(--line);
   background:#fff;color:var(--ink-soft);
 }
@@ -304,7 +304,7 @@ details .d-body code{background:var(--paper-2);padding:2px 8px;border-radius:6px
   font-family:'DM Mono',monospace;font-size:.78rem;font-weight:700;
   color:var(--accent-deep);letter-spacing:.06em;
 }
-.win-card h4{font-family:'Zen Maru Gothic',sans-serif;font-size:1.05rem;font-weight:900;margin:4px 0 10px}
+.win-card h4{font-family:'Zen Kaku Gothic New',sans-serif;font-size:1.05rem;font-weight:900;margin:4px 0 10px}
 .win-card p{font-size:.9rem;color:var(--ink-soft);margin-bottom:12px}
 .win-card .w-ex{
   font-size:.82rem;background:var(--accent-soft);color:var(--accent-deep);
@@ -318,7 +318,7 @@ details .d-body code{background:var(--paper-2);padding:2px 8px;border-radius:6px
   flex:1;min-width:130px;background:#fff;border:1.5px solid var(--line);
   border-radius:14px;padding:16px 18px;box-shadow:0 2px 0 var(--line);
 }
-.stat .s-num{font-family:'Zen Maru Gothic',sans-serif;font-size:1.6rem;font-weight:900;color:var(--accent-deep);line-height:1.2}
+.stat .s-num{font-family:'Zen Kaku Gothic New',sans-serif;font-size:1.6rem;font-weight:900;color:var(--accent-deep);line-height:1.2}
 .stat .s-lb{font-size:.78rem;color:var(--ink-soft);margin-top:4px}
 
 /* footer */
